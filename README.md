@@ -15,3 +15,7 @@ https://github.com/YamamotoDesu/mlkit/tree/master/ios/quickstarts/vision
 <img width="300" alt="スクリーンショット 2023-01-07 16 06 35" src="https://user-images.githubusercontent.com/47273077/211138183-2ef5f857-bf9d-4e96-bba8-732869ec2a4a.png">
 
 <img width="300" alt="スクリーンショット 2023-01-07 16 06 56" src="https://user-images.githubusercontent.com/47273077/211138277-fd5e833e-3682-4594-9323-4fbff588b9e8.png">
+
+
+## Zaim Sample 
+<img width="300" alt="スクリーンショット 2023-01-07 16 16 04" src="https://user-images.githubusercontent.com/47273077/211138925-3c172ecd-af92-4516-9183-28b2c3259982.png">
