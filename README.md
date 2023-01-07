@@ -6,4 +6,4 @@ Note: due to how this repo works, we no longer accept pull requests directly. In
 
 https://github.com/YamamotoDesu/mlkit/tree/master/ios/quickstarts/vision
 
-<img width="520" alt="スクリーンショット 2023-01-07 15 53 07" src="https://github.com/YamamotoDesu/mlkit/blob/master/ios/quickstarts/vision/2023-01-07%2015.51.12.gif">
+<img width="300" alt="スクリーンショット 2023-01-07 15 53 07" src="https://github.com/YamamotoDesu/mlkit/blob/master/ios/quickstarts/vision/2023-01-07%2015.51.12.gif">
